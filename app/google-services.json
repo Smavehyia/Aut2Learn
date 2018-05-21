@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "981123561761",
+    "firebase_url": "https://equithon-52506.firebaseio.com",
+    "project_id": "equithon-52506",
+    "storage_bucket": "equithon-52506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981123561761:android:5a43d415cac0da78",
+        "android_client_info": {
+          "package_name": "com.example.smavehyiashahid.equithon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981123561761-agppe0t5r8450mefgqbq99rq1loss6dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smavehyiashahid.equithon",
+            "certificate_hash": "d5872f0ad6dc54eb52ce0bd2da4a47c560240755"
+          }
+        },
+        {
+          "client_id": "981123561761-df1j2o886baoo3lkcb6k4dh7ibbe2ig0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATl_6z10U4sTOovesHJKoMkoJ2JmEAlc8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981123561761-df1j2o886baoo3lkcb6k4dh7ibbe2ig0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
